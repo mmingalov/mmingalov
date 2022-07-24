@@ -62,14 +62,14 @@ https://github.com/mmingalov/geekbrains-tableau
 
 ## BIG DATA
 
-MapReduce
+### MapReduce
 MapReduce task with using python
 https://github.com/mmingalov/kc-hadoop/tree/master/homework_lesson5 
 
-Hive
+### Hive
 Some practice with creating partitioned tables and views for taxi dataset
 https://github.com/mmingalov/kc-hadoop/tree/master/homework_lesson7 
 
-Spark
+### Spark
 Mini-project I did during my learning in ‘Big Data Analytics’ faculty.
 https://github.com/mmingalov/geekbrains-final-project 
