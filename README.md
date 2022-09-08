@@ -58,7 +58,7 @@ https://github.com/mmingalov/geekbrains-python-data-science/tree/master/course_p
 ## Tableau
 
 https://public.tableau.com/app/profile/maxim.mingalov/viz/CourseWork_mmingalov/Dashboard1 
-https://public.tableau.com/app/profile/maxim.mingalov/viz/DE_2_Dashboard/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/maxim.mingalov/viz/DE_2_Dashboardv2/HHoverviewdashboard?publish=yes
 
 
 ## BIG DATA
