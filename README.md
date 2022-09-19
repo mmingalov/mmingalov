@@ -39,7 +39,7 @@ https://github.com/mmingalov/micromine-lab-protocols
 
 2. On start Spider gets 2 links on VK.com user accounts. Algorithm task is: to find the shortest chain of handshakes by composing it from mutual friends.
 Task was resolved 2 ways: a) Scrapy Spider; b) Recursion
-Stack: scrapy, mongo db
+_Stack: scrapy, mongodb_
 https://github.com/mmingalov/geekbrains-methods-data-collection-from-internet/tree/master/course_work 
 
 3. Apache Airflow DAG finds in Rick and Morty API three locations with maximum number of residents and writes results into Greenplum DB table.
