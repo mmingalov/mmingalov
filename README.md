@@ -73,4 +73,7 @@ https://github.com/mmingalov/kc-hadoop/tree/master/homework_lesson7
 
 ### Spark
 Mini-project I did during my learning in ‘Big Data Analytics’ faculty.
-https://github.com/mmingalov/geekbrains-final-project 
+https://github.com/mmingalov/geekbrains-final-project
+
+This model rates clients and provede decision about should we credit them or should not.
+https://github.com/mmingalov/kc-big-ML/tree/main/4_1_Bank_credit_scoring
