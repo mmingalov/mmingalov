@@ -72,7 +72,8 @@ Some practice with creating partitioned tables and views for taxi dataset
 https://github.com/mmingalov/kc-hadoop/tree/master/homework_lesson7 
 
 ### Spark
-Mini-project I did during my learning in ‘Big Data Analytics’ faculty.
+Mini-project I did during my learning in ‘Big Data Analytics’ faculty. Please find detailed description in Powerpoint files (Russian and English versions).
+Please find steps of execution in 'final project executing.docx' file.
 https://github.com/mmingalov/geekbrains-final-project
 
 This model rates clients and provides decisions about should we credit them or should not.
