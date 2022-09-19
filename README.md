@@ -75,5 +75,8 @@ https://github.com/mmingalov/kc-hadoop/tree/master/homework_lesson7
 Mini-project I did during my learning in ‘Big Data Analytics’ faculty.
 https://github.com/mmingalov/geekbrains-final-project
 
-This model rates clients and provede decision about should we credit them or should not.
+This model rates clients and provides decisions about should we credit them or should not.
 https://github.com/mmingalov/kc-big-ML/tree/main/4_1_Bank_credit_scoring
+
+Model for predicting the value of the maximum loan amount based on client data.
+https://github.com/mmingalov/kc-big-ML/tree/main/4_2_Bank_credit_rate
