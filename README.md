@@ -34,16 +34,16 @@ In this profile you may see key projects and tasks have been resolved by me duri
 I've grouped them in next list.
 
 ## Python
-1. Small ETL windows app for converting Excel protocol file to CSV file format with required structure. Stack: pandas, re, tkinter
+1. Small ETL windows app for converting Excel protocol file to CSV file format with required structure. __Stack: pandas, re, tkinter__
 https://github.com/mmingalov/micromine-lab-protocols 
 
 2. On start Spider gets 2 links on VK.com user accounts. Algorithm task is: to find the shortest chain of handshakes by composing it from mutual friends.
 Task was resolved 2 ways: a) Scrapy Spider; b) Recursion
-_Stack: scrapy, mongodb_
+__Stack: scrapy, mongo db__
 https://github.com/mmingalov/geekbrains-methods-data-collection-from-internet/tree/master/course_work 
 
 3. Apache Airflow DAG finds in Rick and Morty API three locations with maximum number of residents and writes results into Greenplum DB table.
-Stack: greenplum db, airflow
+__Stack: greenplum db, airflow__
 https://github.com/mmingalov/kc-airflow/blob/main/dags/m-mingalov/m-mingalov_5_Rick_and_Morty.py 
 
 ## Data Analysis
