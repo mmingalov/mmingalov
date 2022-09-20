@@ -72,11 +72,11 @@ Some practice with creating partitioned tables and views for taxi dataset
 https://github.com/mmingalov/kc-hadoop/tree/master/homework_lesson7 
 
 ### Spark
-Project from my learning in ‘Big Data Analytics’ faculty. Please find detailed description in Powerpoint files (Russian and English versions) and steps of execution in 'final project executing.docx' file.
+1. Project from my learning in ‘Big Data Analytics’ faculty. Please find detailed description in Powerpoint files (Russian and English versions) and steps of execution in 'final project executing.docx' file.
 https://github.com/mmingalov/geekbrains-final-project
 
-This model rates clients and provides decisions about should we credit them or should not.
+2. This model rates clients and provides decisions about should we credit them or should not.
 https://github.com/mmingalov/kc-big-ML/tree/main/4_1_Bank_credit_scoring
 
-Model for predicting the value of the maximum loan amount based on client data.
+3. Model for predicting the value of the maximum loan amount based on client data.
 https://github.com/mmingalov/kc-big-ML/tree/main/4_2_Bank_credit_rate
