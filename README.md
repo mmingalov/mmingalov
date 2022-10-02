@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://camo.githubusercontent.com/5aafe85f60b73ce40528550fa3471671ddf79c9df9193b5a92543eb489a296d9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d306e3178782d6769746875622d757365726e616d6526636f6c6f723d626c756576696f6c6574" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=mmingalov&amp;color=blueviolet" style="max-width: 100%;">
-
 ### Hi there 👋
 My name is Max. I develop business in Far East and Siberian regions of Russia, implement data management systems and continuously improve my skills in DA and DE directions.
 <div id="badges">
