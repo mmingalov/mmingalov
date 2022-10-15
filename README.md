@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-My name is Max. I develop business in Far East and Siberian regions of Russia, implement data management systems and continuously improve my skills in DA and DE directions. I've got domain expertise in Banking, Mining and Geology.
-More details about data management solution Geobank you may find in my article in Globus magazine 
-https://www.vnedra.ru/wp-content/uploads/2021/08/globus67.pdf (page 152)
+My name is Max. I develop business in Far East and Siberian regions of Russia, implement data management systems (more details in my article <a href="" rel="nofollow">https://www.vnedra.ru/wp-content/uploads/2021/08/globus67.pdf</a> -- page 152) and continuously improve my skills in DA and DE directions. I've got domain expertise in Banking, Mining and Geology.
 <div id="badges">
   <a href="https://www.linkedin.com/in/maximmingalov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
