@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-My name is Max. I develop business in Far East and Siberian regions of Russia, implement data management systems (more details in <a href="https://www.vnedra.ru/wp-content/uploads/2021/08/globus67.pdf" rel="nofollow">my article for Globus magazine</a> -- on page 152) and continuously improve my skills in DA and <a href="https://lab.karpov.courses/certificate/4d670d90-bb19-4ae5-b28a-73c22312a271/en/">DE</a> directions. I've got domain expertise in Banking, Mining and Geology.
+My name is Max. I develop business in Far East and Siberian regions of Russia, implement data management systems (more details in <a href="https://www.vnedra.ru/wp-content/uploads/2021/08/globus67.pdf" rel="nofollow">my article for Globus magazine</a> -- on page 152) and continuously improve my skills in __<a href="https://cloud.mail.ru/public/kjB5/ufVFzEVsD">DA</a>__ and <a href="https://lab.karpov.courses/certificate/4d670d90-bb19-4ae5-b28a-73c22312a271/en/">DE</a> directions. I've got domain expertise in Banking, Mining and Geology.
 <div id="badges">
   <a href="https://www.linkedin.com/in/maximmingalov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
