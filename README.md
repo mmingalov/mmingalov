@@ -58,9 +58,8 @@ https://github.com/mmingalov/geekbrains-python-data-science/tree/master/course_p
 
 
 ## Tableau
-
-https://public.tableau.com/app/profile/maxim.mingalov/viz/CourseWork_mmingalov/Dashboard1 
-https://public.tableau.com/app/profile/maxim.mingalov/viz/DE_2_Dashboardv2/HHoverviewdashboard?publish=yes
+This dashboard I created for tracking a result of my investment deals. 
+https://public.tableau.com/app/profile/maxim.mingalov/viz/IISv3/Dashboard1?publish=yes
 
 
 ## BIG DATA
