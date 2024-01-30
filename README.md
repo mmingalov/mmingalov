@@ -81,3 +81,6 @@ https://github.com/mmingalov/kc-big-ML/tree/main/4_1_Bank_credit_scoring
 
 3. Model for predicting the value of the maximum loan amount based on client data.
 https://github.com/mmingalov/kc-big-ML/tree/main/4_2_Bank_credit_rate
+
+4. Pyspark profiler for getting additional statistics of table columns.
+https://github.com/mmingalov/spark-profiler/blob/main/SparkProfiler.py
