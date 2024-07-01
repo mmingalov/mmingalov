@@ -83,4 +83,4 @@ https://github.com/mmingalov/kc-big-ML/tree/main/4_1_Bank_credit_scoring
 https://github.com/mmingalov/kc-big-ML/tree/main/4_2_Bank_credit_rate
 
 4. Pyspark profiler for getting additional statistics of table columns.
-https://github.com/mmingalov/spark-profiler/blob/main/SparkProfiler.py
+https://github.com/mmingalov/spark-profiler/
